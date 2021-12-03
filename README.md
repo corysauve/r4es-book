@@ -1,6 +1,6 @@
 # r4es-book
 
-The goal of \*R for Environmental Science\* is to provide a reference for environmental science students and professionals on using R for tasks relating to the environmental sciences. I strongly believe that many barriers to learning programming are due to a lack of domain-specific examples. My hope is that this book removes some of those barriers by using familiar data and concepts throughout.
+The goal of *R for Environmental Science* is to provide a reference for environmental science students and professionals on using R for tasks relating to the environmental sciences. I strongly believe that many barriers to learning programming are due to a lack of domain-specific examples. My hope is that this book removes some of those barriers by using familiar data and concepts throughout.
 
 I am still in the very early stages of planning out the content, but I have provided a tentative concept outline below. In the meantime, check out the [`{r4es}`](https://github.com/corysauve/r4es) package that  contains all code tutorials and datasets used in this book. I also plan on the making series of blog posts and video tutorials as I write the book. You can find my blog [here](https:/corysauve.com)!
 
